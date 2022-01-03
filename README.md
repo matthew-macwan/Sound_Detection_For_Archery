@@ -10,6 +10,7 @@ One of my personal hobbies is archery and I love shooting arrows. However, every
 
 ### File Description 
 
+Archery_Audio_EDA.ipynb - Jupyter notebook with some EDA, just viewing the video clips and audio clips and their features
 
 
 
