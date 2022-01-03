@@ -15,4 +15,4 @@ One of my personal hobbies is archery and I love shooting arrows. However, every
 
 ### Topics Covered
 
-- audio classification, mel spectrograms, fast fourier transformation, 
+- audio classification, mel spectrograms, fast fourier transformation 
